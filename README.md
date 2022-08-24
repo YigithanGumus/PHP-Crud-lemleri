@@ -1,2 +1,2 @@
-# PHP-E-Ticaret-Script
-01 - E-Ticaret
+# PHP Crud İşlemleri
+01 - Basit Crud İşlemleri
